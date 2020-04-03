@@ -1,2 +1,3 @@
 # testebatata
 teste
+print("batata")
